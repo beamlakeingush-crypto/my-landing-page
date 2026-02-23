@@ -1,0 +1,49 @@
+  
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      background:  #0F172A;
+      color: #F8FAFC;
+    }
+    header {
+      background-color: #1E293B  ;
+      color: white;
+      padding: 20px;
+       box-shadow: 0 0 10px rgba(0,0,0,1);
+      
+     
+
+    }
+
+
+    header :hover{
+      color: #22D3EE;
+    }
+    .BAM{
+      color: #22D3EE;
+    }
+    .get{
+      background-color: #40E0D0;
+
+
+    }
+    section {
+      padding: 40px;
+    }
+    .projects {
+      color: #0F172A;
+      background: #fff;
+      margin: 20px auto;
+      padding: 20px;
+      width: 80%;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      background:#22D3EE;  ;
+      color: white;
+      padding: 10px;
+    }
+  
