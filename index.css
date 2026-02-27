@@ -1,0 +1,31 @@
+ 
+ *{
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;}
+ 
+  body{
+    background-color: aqua;
+  }
+  .center-t{
+    text-align: center;
+    font-size: 170px;
+  }
+  .btn{
+    text-align: center;
+     
+     
+  }
+  #decbtn,#resetbtn,#incbtn{
+    padding: 15px;
+    width: 130px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+  }
+
+   
+  
+ 
